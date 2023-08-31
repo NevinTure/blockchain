@@ -1,5 +1,6 @@
 package blockchain.services;
 
+import blockchain.model.Miner;
 import blockchain.model.User;
 
 import java.util.List;

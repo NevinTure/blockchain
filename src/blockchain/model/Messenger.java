@@ -1,7 +1,5 @@
-package blockchain.services;
+package blockchain.model;
 
-import blockchain.model.Transaction;
-import blockchain.model.User;
 import blockchain.util.Operation;
 import blockchain.view.HandlerCenter;
 

@@ -1,6 +1,7 @@
 package blockchain.services;
 
 
+import blockchain.model.Messenger;
 import blockchain.model.User;
 import blockchain.view.HandlerCenter;
 

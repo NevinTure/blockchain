@@ -1,8 +1,6 @@
 package blockchain.model;
 
 
-import blockchain.services.Miner;
-
 public class Block {
 
     private Miner creator;

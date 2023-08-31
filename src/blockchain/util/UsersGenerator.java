@@ -3,7 +3,7 @@ package blockchain.util;
 import blockchain.model.Blockchain;
 import blockchain.model.User;
 import blockchain.security.KeyGenerator;
-import blockchain.services.Miner;
+import blockchain.model.Miner;
 
 import java.util.*;
 
